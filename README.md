@@ -30,7 +30,7 @@ Windows: Use precompiled .whl from https://www.lfd.uci.edu/~gohlke/pythonlibs/#p
 macOS: brew install portaudio
 
 
-🚀 How to Run
+## How to Run
 Make sure your microphone is connected and working.
 
 python speech_text_org.py
