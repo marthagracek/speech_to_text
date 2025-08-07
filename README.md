@@ -1,7 +1,7 @@
 # Speech-to-Text Converter
 A real-time speech-to-text converter built in Python that captures microphone input and displays transcribed text both on the command line and a simple user interface (UI). Supports live audio translation in English, Hindi, and Telugu.
 
-✨ ## Features
+## Features
 🎧 Live transcription from microphone input
 
 💬 Multilingual support – English, Hindi, and Telugu
