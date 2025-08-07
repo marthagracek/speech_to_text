@@ -10,6 +10,7 @@ A real-time speech-to-text converter built in Python that captures microphone in
 
 ⚡ Built with Python’s SpeechRecognition and other lightweight libraries
 
+
 📁 Project Structure
 bash
 Copy
@@ -18,36 +19,30 @@ speech_to_text/
 ├── speech_text_org.py     # Main executable script
 ├── requirements.txt       # List of dependencies (optional)
 └── README.md              # This file
+
+
 🔧 Requirements
 Python 3.8 or higher
-
 Required packages:
 
-bash
-Copy
-Edit
 pip install SpeechRecognition pyaudio tkinter
+
 Optional: If you're running into issues with pyaudio, you may need to install portaudio separately:
 
 Windows: Use precompiled .whl from https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
-
 macOS: brew install portaudio
 
-Ubuntu: sudo apt-get install portaudio19-dev python3-pyaudio
 
 🚀 How to Run
 Make sure your microphone is connected and working.
 
-bash
-Copy
-Edit
 python speech_text_org.py
+
 The program will:
 
 Start listening to your voice
 
 Transcribe speech to text in real-time
-
 Display the output both on the terminal and in a small GUI window
 
 🌍 Language Support
