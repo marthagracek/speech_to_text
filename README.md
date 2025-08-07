@@ -11,7 +11,7 @@ A real-time speech-to-text converter built in Python that captures microphone in
 ⚡ Built with Python’s SpeechRecognition and other lightweight libraries
 
 
-📁 Project Structure
+## Project Structure
 
 speech_to_text/
 ├── speech_text_org.py     # Main executable script
@@ -19,7 +19,7 @@ speech_to_text/
 └── README.md              # This file
 
 
-🔧 Requirements
+## Requirements
 Python 3.8 or higher
 Required packages:
 
