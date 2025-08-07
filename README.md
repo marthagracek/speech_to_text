@@ -41,20 +41,20 @@ Start listening to your voice
 Transcribe speech to text in real-time
 Display the output both on the terminal and in a small GUI window
 
-🌍 Language Support
+## Language Support
 English
 Hindi
 Telugu
 
 The program auto-detects the language based on system settings or model behavior. You can modify the script to explicitly set the language if needed.
 
-🧠 Tech Stack
+## Tech Stack
 SpeechRecognition
 pyaudio – for microphone input
 tkinter – for simple UI
 Google Web Speech API (default recognizer backend)
 
-❗ Notes
+## Notes
 Requires an internet connection to use Google’s speech recognition engine.
 Accuracy may vary depending on mic quality and background noise.
 For Hindi or Telugu transcription, pronunciation clarity is essential.
